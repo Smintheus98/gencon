@@ -1,2 +1,3 @@
 # gencon
-Nim library for preprocessing generic configuration files.
+
+This library allows to write generic configuration files from which the specific configuration files are generated easily
